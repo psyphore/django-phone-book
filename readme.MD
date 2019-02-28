@@ -2,12 +2,12 @@
 
 ## Resources
 
-1. (GraphQL+DJANGO)[https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/]
-1. (Virtual Environment)[https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/]
-1. (python-dotenv)[https://github.com/theskumar/python-dotenv]
-1. (neo4j)[https://neo4j.com/developer/python/]
-1. (GraphQL Python article)[https://medium.com/@amhopkins/my-new-development-stack-using-python-graphql-and-neo4j-the-brewmasters-guide-to-the-internet-87e3879009c4]
-1. (Python Virtual Environment Tools)[https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44]
+1. [GraphQL+DJANGO](https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/)
+1. [Virtual Environment](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/)
+1. [python-dotenv](https://github.com/theskumar/python-dotenv)
+1. [neo4j](https://neo4j.com/developer/python/)
+1. [GraphQL Python article](https://medium.com/@amhopkins/my-new-development-stack-using-python-graphql-and-neo4j-the-brewmasters-guide-to-the-internet-87e3879009c4)
+1. [Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)
 
 ## Commands
 
