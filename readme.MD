@@ -1,4 +1,6 @@
-# GraphQL CRM API - Graphene Python Neo4J
+# django-phone-book
+
+My 1st take at Python, Django, GraphQLm Neo4J
 
 ## Resources
 
